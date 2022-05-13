@@ -4,7 +4,7 @@ import ctaction from '../../assets/images/treatment.png'
 const CallToAction = () => {
     return (
         <div>
-            <div className="hero min-h-screen">
+            <div className="hero mb-2">
                 <div className="hero-content flex-col lg:flex-row">
                         <img src={ctaction} className="max-w-sm rounded-lg shadow-2xl mr-14" alt='Call to action'/>
                     <div>
